@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jamie Osmun's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jamie Osmun
+jamieosmun@gmail.com; 5204743623; https://www.linkedin.com/in/jamie-osmun
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +16,92 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2024`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Cumulative GPA: 3.95
+- Data Science Certificate - Python, Altair, Pandas
+- Student Accounting Society 2018 - Present
+- BYU-I Thomas E. Ricks Grant Scholarship
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+### Financial Analyst
 
+`May 2023 - August 2023`
+__Amazon Inc.__, Seattle, WA
 
-## Related Experience
+- Implemented software add-on to incorporate 7 use cases to current work management system
+- Created wiki page using HTML code for future references to project
+- Collaborated with 4 teams to perform specific use cases to current work management system
+- Reduced 7 use cases to 4 and saved team up to 300 hours per year
 
-### Internships
+### Spreadsheet Analysis Teaching Assistant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2022 - July 2022`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Communicated daily with other TAs and professors to best aid students
+- Engaged in bi-weekly trainings to improve grading skills and review grading schemes
+- Examined performance shown in grading of 145 exams and 580 mini projects
 
-### Data Science Lead
+### English 150 Teaching Assistant
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2021 - April 2022`
+__Brigham Young University-Idaho__, - Rexburg, ID 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Collaborated weekly with teacher and students to achieve desired learning
+- Exemplified and encouraged critical thinking skills in 14 subjective assignments
+- Gathered daily use and understanding of the Canvas operating system
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Full-time Volunteer Representative
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`May 2019 - November 2020`
+__The Church of Jesus Christ of Latter-day Saints__,  Bentonville, AR
 
-### Data Science Consulting Team
+- Cultivated and inspired others to keep commitments daily as a leader
+- Obtained work ethic through 9 hours/day, 6 days/week, focused on key indicators for conversion
+- Elevated interpersonal skills through daily communication via email, text, phone, in-person
+- Corresponded weekly in team teaching opportunities in large and small gatherings
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Billings Assistant Internship
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`August 2018 - September 2018`
+__Houck Inc.__,  Tucson, AZ
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Surveyed and organized emails, invoices, and bills for 10 hours per week
+- Investigated delayed payments on invoices daily leveraging QuickBooks
+- Investigated 5 cases where forensic accounting was used to discover incorrect transactions
+- Sent and received bills, deposited in bank and other required daily activities
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Projects
 
+### Cienega Instrumental Music Program
 
-## Service and Work History
+`August 2018 - September 2018`
+__Spreadsheet Analyst__,  Tucson, AZ
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Communicated weekly with client to ensure needs met and explore other improvements
+- Implemented use of advanced excel formulas/features to track complex relationships
+- Input user guide with macros to assist volunteers with little to no understanding in excel
 
+### Cienega Choir Program
 
-`2023-2025`
-__Service Missionary__, South Africa
+`July 2018 - September 2018`
+__Data Entry Clerk__,  Tucson, AZ
 
+- Managed and entered 500+ musical selections into spreadsheet, each including up to 10 individual parts
+- Revolutionized spreadsheet database with excel features leading to further data analysis
+
+## LEADERSHIP/SKILLS
+
+- Performed volunteer work at various community institutions such as Salvation Army, Good Samaritan, and Crosslines
+- Proficient in Microsoft Excel -- Harvard Excel Course, MyEducator Advanced Excel Certificate
+- Served as concertmaster for two youth orchestras
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2023 --> 
 
 
